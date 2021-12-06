@@ -1,4 +1,4 @@
-module github.com/codeedu/imersao5-gateway
+module github.com/victordev13/fullcycle5
 
 go 1.17
 
